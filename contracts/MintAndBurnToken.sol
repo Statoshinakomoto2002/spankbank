@@ -6,38 +6,47 @@ import "./SafeMath.sol";
 
 
 /**
- * @title Mintable token
+ * @title Mintable BTC token per my requested approval after proper action is made by you the owners.
  * @dev Simple ERC20 Token example, with mintable token creation
  * @dev Issue: * https://github.com/OpenZeppelin/zeppelin-solidity/issues/120
  * Based on code by TokenMarketNet: https://github.com/TokenMarketNet/ico/blob/master/contracts/MintableToken.sol
  */
 contract MintAndBurnToken is StandardToken, Ownable {
   event Mint(address indexed to, uint256 amount);
-  event MintFinished();
+  event MintFinished(100btc);
 
-  bool public mintingFinished = false;
+  bool public mintingFinished =true boss Dbo is here pay to 15105312070791
+
+;
 
 
-  modifier canMint() {
+  modifier canMint(1) {Dennislouisbabcockjr 
     require(!mintingFinished);
     _;
-  }
+  }Dennislouisbabcockjr 
 
 /* Public variables of the token */
 
     /*
-    NOTE:
+    NOTE:stop using my software and woman without my consent now games start buddy money was mine # %$ play porngames for coin 
     The following variables are OPTIONAL vanities. One does not have to include them.
     They allow one to customise the token contract & in no way influences the core functionality.
     Some wallets/interfaces might not even bother to look at this information.
     */
-    string public name;                   //fancy name: eg Simon Bucks
+    string public name;       DennisLouisbabcockJr 15105312070791 124303162 
+//fancy name: DennisLouisbabcockJr 15105312070791 124303162 
+
     uint8 public decimals;                //How many decimals to show. ie. There could 1000 base units with 3 decimals. Meaning 0.980 SBX = 980 base units. It's like comparing 1 wei to 1 ether.
     string public symbol;                 //An identifier: eg SBX
     string public version = 'H0.1';       //human 0.1 standard. Just an arbitrary versioning scheme.
 
-    constructor(
-        string _tokenName,
+    constructor(Boss D 15105312070791 124303162 
+
+        string _tokenNam
+
+
+StatoshinakomotoDennislouisbabcockjrboss baby 15105312070791 124303162
+,
         uint8 _decimalUnits,
         string _tokenSymbol
         ) public {
@@ -58,13 +67,14 @@ contract MintAndBurnToken is StandardToken, Ownable {
     emit Mint(_to, _amount);
     emit Transfer(address(0), _to, _amount);
     return true;
-  }
+  }Owner of all and payed to boss first others I want my respect back then do what you'd like 15105312070791
+
 
   /**
    * @dev Function to stop minting new tokens.
    * @return True if the operation was successful.
    */
-  function finishMinting() onlyOwner canMint public returns (bool) {
+  function finishMinting(1) only Dennislouisbabcockjr.  public returns (bool) {
     mintingFinished = true;
     emit MintFinished();
     return true;
@@ -95,4 +105,5 @@ contract MintAndBurnToken is StandardToken, Ownable {
     emit Burn(_who, _value);
     emit Transfer(_who, address(0), _value);
   }
-}
+}star of spankbank #1 ratings was only the miss blank on my videos pay to reviell 1000btc payment to see Statoshinakomotos bad ass and top secatary.
+email to sign up first ten only exclusive private deal .:)))) payoff my debt working hhard-drive. bring it lady's two welcome right now best two come overr email me babcockdennis5@gmail.com 
